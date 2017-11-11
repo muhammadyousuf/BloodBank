@@ -1,0 +1,24 @@
+{
+    "bloodgroups" : [
+        "A+",
+        "B+",
+        "AB+",
+        "O+",
+        "A-",
+        "B-",
+        "AB-",
+        "O-"
+    ],
+    "bloodgroupsSearch" : [
+        "Select All",
+        "A+",
+        "B+",
+        "AB+",
+        "O+",
+        "A-",
+        "B-",
+        "AB-",
+        "O-"
+    ]
+    
+}
